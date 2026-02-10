@@ -1,1 +1,2 @@
 Contents of prog3
+lines added in prog3.txt
